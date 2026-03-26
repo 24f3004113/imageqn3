@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a tightrope stretched between two cliffs: on one side, a rigid, perfectly straight walker barely moves; on the other, a loose, unstable walker wobbles wildly. At the center, a balanced walker moves steadily. Natural lighting, wind, realistic textures, depth. No text, symbols, or diagrams.",
+  "model": "DALL·E 3",
+  "concept": "Bias-Variance Tradeoff",
+  "metaphor": "A tightrope walker balancing between rigidity and instability shows the tradeoff between underfitting and overfitting."
+}
